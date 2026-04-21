@@ -1,7 +1,7 @@
 ## Hi there, I'm Romulo Galiao! 👋  
 ### Software Engineer | Full-Stack Developer | Tech Enthusiast  
 
-🚀 Passionate about building scalable and high-quality web applications. Experienced in **React, Next.js, TypeScript, Angular, Flutter**, and more. Currently working at **DB Systel GmbH** on cutting-edge digital solutions.  
+🚀 Passionate about building scalable and high-quality web applications.
 
 ### 🛠️ Tech Stack
 <details>
@@ -13,6 +13,8 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   
 </details>
 
